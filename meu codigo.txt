@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Olá meu nome é Gilberto ferreira sabino
+=======
+Olá meu nome é Gilberto
+
+E sou uma nova linha.
+>>>>>>> be0ca3eea4441cbdb06c30a4f08a22dcbc55b818
